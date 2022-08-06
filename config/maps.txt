@@ -13,8 +13,14 @@ Format:
 	votable (is this map votable)
 endmap
 
-map metastation
+map TestSCPMap_2Small500
 	#default
+	minplayers 1
+	#voteweight 0.5
+	votable
+endmap
+
+map metastation
 	minplayers 25
 	#voteweight 0.5
 	votable
